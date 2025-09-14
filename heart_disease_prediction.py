@@ -1,4 +1,5 @@
 # heart_disease_prediction.py
+# download datasets from kaggle "Framingham Heart Study Dataset "
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
